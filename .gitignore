@@ -1,0 +1,16 @@
+# QuestaSim / ModelSim generated files
+work/
+*.wlf
+*.vcd
+*.ucdb
+*.log
+transcript
+modelsim.ini
+*.cr.mti
+
+# Backup files
+*.bak
+
+# Generated coverage reports
+sim/axi_uvm_coverage_report.txt
+sim/axi_uvm_coverage.ucdb
